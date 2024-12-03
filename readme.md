@@ -1,3 +1,5 @@
 Aula de Git
+
 Feito algumas aterações 
-Feito algumas aterações aopós o git clone 
+
+Feito algumas aterações após o git clone 
