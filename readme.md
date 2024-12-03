@@ -1,3 +1,3 @@
 Aula de Git
-Feito alguams aterações 
-Feito alguams aterações 2
+Feito algumas aterações 
+Feito algumas aterações aopós o git clone 
